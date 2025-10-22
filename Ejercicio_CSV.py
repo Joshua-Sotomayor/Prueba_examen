@@ -19,6 +19,8 @@ def main():
     tabla_datos = pd.DataFrame(lista_datos[1:], columns=lista_datos[0])
 
     print(tabla_datos)
+    tabla_datos.set_index("ID", inplace=True)
+    print("\nTabla con índice ID:")
 
 if  __name__ == "__main__":
     main()
