@@ -1,0 +1,51 @@
+Id;Herramienta;Fecha de entrada;�Area;Estado
+00001;Soldador de esta�o;2024-11-11;Taller de instrumentaci�n;En mal estado
+00002;Llave de tubo;2024-12-24;Taller mec�nico;En reparaci�n
+00003;Destornillador;2025-05-23;Taller de instrumentaci�n;En mal estado
+00004;Fuente de poder;2025-07-19;Taller de instrumentaci�n;Ocupado
+00005;Analizador de gases;2024-11-02;Taller el�ctrico;Ocupado
+00006;Corta cables;2025-09-18;Taller el�ctrico;En reparaci�n
+00007;Cinta aislante;2025-06-05;Taller de instrumentaci�n;En reparaci�n
+00008;Probador de continuidad;2025-03-20;Taller mec�nico;En mal estado
+00009;Taladro;2025-06-19;Taller el�ctrico;En reparaci�n
+00010;Man�metro;2024-11-01;Taller mec�nico;Ocupado
+00011;Pinza amperim�trica;2025-04-20;Taller el�ctrico;Ocupado
+00012;Tester de bater�a;2024-11-13;Taller mec�nico;En mal estado
+00013;Transformador;2025-03-02;Taller de instrumentaci�n;Disponible
+00014;Generador de funciones;2025-07-01;Taller el�ctrico;En reparaci�n
+00015;Tester de red;2025-10-12;Taller de instrumentaci�n;En reparaci�n
+00016;Llave inglesa;2025-02-10;Taller de instrumentaci�n;En reparaci�n
+00017;Torno;2025-10-06;Taller de instrumentaci�n;Disponible
+00018;Bater�a recargable;2025-03-25;Taller mec�nico;Ocupado
+00019;Osciloscopio;2025-09-07;Taller mec�nico;En mal estado
+00020;Compresor de aire;2025-01-18;Taller de instrumentaci�n;Disponible
+00021;Lupa con luz;2025-07-17;Taller el�ctrico;En reparaci�n
+00022;Sensor de temperatura;2025-05-16;Taller mec�nico;Ocupado
+00023;Medidor de presi�n;2025-04-04;Taller de instrumentaci�n;Ocupado
+00024;Fuente regulable;2025-02-18;Taller de instrumentaci�n;En mal estado
+00025;Taladro de banco;2025-08-27;Taller de instrumentaci�n;En reparaci�n
+00026;Caut�n;2024-11-18;Taller de instrumentaci�n;En reparaci�n
+00027;Amper�metro;2024-11-08;Taller de instrumentaci�n;En reparaci�n
+00028;Martillo;2025-06-20;Taller de instrumentaci�n;Disponible
+00029;Calibrador vernier;2025-03-04;Taller de instrumentaci�n;En reparaci�n
+00030;Broca;2024-10-27;Taller de instrumentaci�n;En mal estado
+00031;Analizador de se�ales;2025-01-23;Taller mec�nico;Ocupado
+00032;Extractor de poleas;2025-03-20;Taller mec�nico;Ocupado
+00033;Calibrador;2025-04-05;Taller mec�nico;Disponible
+00034;Balanza electr�nica;2025-09-25;Taller el�ctrico;En mal estado
+00035;Fuente de alimentaci�n port�til;2025-08-25;Taller de instrumentaci�n;Ocupado
+00036;Micr�metro;2025-08-05;Taller el�ctrico;En reparaci�n
+00037;Destornillador el�ctrico;2025-05-21;Taller mec�nico;En mal estado
+00038;C�mara t�rmica;2025-07-20;Taller mec�nico;En mal estado
+00039;Sierra el�ctrica;2025-07-24;Taller mec�nico;En reparaci�n
+00040;Pistola de calor;2025-05-12;Taller el�ctrico;En mal estado
+00041;Mult�metro digital;2025-03-21;Taller de instrumentaci�n;Ocupado
+00042;Nivel l�ser;2024-11-25;Taller el�ctrico;En reparaci�n
+00043;Crimpadora;2024-10-20;Taller el�ctrico;En mal estado
+00044;Soplete;2024-11-09;Taller el�ctrico;Disponible
+00045;Cinta m�trica;2025-09-21;Taller el�ctrico;En mal estado
+00046;Osciloscopio port�til;2025-04-15;Taller mec�nico;Disponible
+00047;Mult�metro;2025-02-22;Taller mec�nico;Ocupado
+00048;Sensor ultras�nico;2025-10-10;Taller de instrumentaci�n;En mal estado
+00049;Pinzas;2025-02-23;Taller de instrumentaci�n;Disponible
+00050;Detector de voltaje;2024-12-27;Taller el�ctrico;En mal estado
