@@ -21,6 +21,7 @@ def main():
     print(tabla_datos)
     tabla_datos.set_index("ID", inplace=True)
     print("\nTabla con índice ID:")
+    print("Soy un alucin")
 
 if  __name__ == "__main__":
     main()
